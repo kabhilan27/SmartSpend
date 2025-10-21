@@ -1,4 +1,16 @@
-# 💰 SmartSpend — Personal Expense Tracker  
+# 💰 SmartSpend — Personal Expense Tracker
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/Built%20in-Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
+  <img src="https://img.shields.io/badge/Platform-Android-34A853?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/UI-Material%20Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white">
+  <img src="https://img.shields.io/badge/License-MIT-FFB300?style=for-the-badge&logo=open-source-initiative&logoColor=white">
+  <img src="https://img.shields.io/badge/Status-Stable-00C853?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Version-1.0.0-4285F4?style=for-the-badge&logo=semanticrelease&logoColor=white">
+</p>
+
+---
 
 A **lightweight Android app** built with **Kotlin** that helps users **track income and expenses**, **set budgets**, and **analyze spending patterns** with a simple and elegant interface.  
 
